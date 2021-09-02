@@ -1,4 +1,4 @@
-from setup import *
+from setup_load import *
 
 COLUMNWIDTH,OPENING_SIZE = 50, 300
 
