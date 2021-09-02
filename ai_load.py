@@ -165,7 +165,7 @@ class DQNAgent:
 
 agent = DQNAgent(state_size,action_size)
 
-agent.load_reset('data 50,300/agent_02700.hdf5')
+agent.load_reset('data/agent_02700.hdf5')
 
 episode = 0
 count   = 0

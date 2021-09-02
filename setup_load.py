@@ -29,7 +29,7 @@ if RENDERING:
     window = pygame.display.set_mode((SCREENWIDTH, SCREENHEIGHT))
     pygame.display.set_caption(CAPTION)
     CLOCK = pygame.time.Clock()
-    FRAMERATE = 30
+    FRAMERATE = 10
     
     DEFAULT_FONT = pygame.font.SysFont("arial",30)
     
