@@ -1,5 +1,5 @@
 # FlappyBird_AI
-Ensure you have the libaries in requirements.txt. Note that the code may not run on python 3.9. 
+Ensure you have the libaries in requirements.txt. 
 
 To train the AI for flappy bird, run ai_creation.py.
 
